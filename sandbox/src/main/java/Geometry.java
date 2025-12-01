@@ -11,6 +11,7 @@ public class Geometry {
 
     private static void printRectangleArea(double a, double b) {
         System.out.println("Площадь прямоугольника со сторонами " + a + " и " + b + "  = " +  rectangleArea(a, b));
+        
 
     }
 
